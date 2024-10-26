@@ -6,5 +6,6 @@
     ./autopairs.nix
     ./mdpreview.nix
     ./bufferline.nix
+    ./gitsigns.nix
   ];
 }
