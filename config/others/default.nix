@@ -1,6 +1,7 @@
 {
   # Import all your configuration modules here
-  imports = [ 
+  imports = [
+    ./neotree.nix
     ./autopairs.nix
     ./mdpreview.nix
   ];
