@@ -4,5 +4,6 @@
     ./lsp
     ./others
     ./theming
+    ./settings
   ];
 }
