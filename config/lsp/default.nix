@@ -5,5 +5,6 @@
     ./cmp.nix
     ./fidget.nix
     ./conform.nix
+    ./treesitter.nix
   ];
 }
