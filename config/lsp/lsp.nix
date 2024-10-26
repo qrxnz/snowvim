@@ -82,6 +82,9 @@
           pyright = {
             enable = true;
           };
+          gopls = {
+            enable = true;
+          };
           ruff_lsp = {
             enable = true;
           };

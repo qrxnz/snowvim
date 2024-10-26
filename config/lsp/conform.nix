@@ -50,6 +50,7 @@
             __unkeyed-2 = "prettier";
             stop_after_first = true;
           };
+          go = [ "gofmt" ];
           python = [ "black" ];
           lua = [ "stylua" ];
           nix = [ "nixfmt" ];
