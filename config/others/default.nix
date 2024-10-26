@@ -4,5 +4,6 @@
     ./neotree.nix
     ./autopairs.nix
     ./mdpreview.nix
+    ./bufferline.nix
   ];
 }
