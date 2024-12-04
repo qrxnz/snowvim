@@ -2,12 +2,11 @@
 
 ## ⚒️ Installation
 
-### ❄️ Nix
-- Try it without installing:
+### Try it without installing
 ```sh
 nix run github:qrxnz/snowvim
 ```
-- Installation:  
+### Installation
 
 Add input in your flake like:  
 ```nix
