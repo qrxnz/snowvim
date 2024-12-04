@@ -1,5 +1,10 @@
 # snowvim
 
+## ✒️ Description
+> Neovim configuration built with Nixvim
+  
+My Neovim configuration provides good experience for multiple languages and facilitates DevOps-related tasks  `^‿^`
+
 ## ⚒️ Installation
 
 ### Try it without installing
