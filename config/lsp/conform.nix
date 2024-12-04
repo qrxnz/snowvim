@@ -53,7 +53,7 @@
           go = [ "gofmt" ];
           python = [ "black" ];
           lua = [ "stylua" ];
-          nix = [ "nixfmt" ];
+          nix = [ "alejandra" ];
           markdown = {
             __unkeyed-1 = "prettierd";
             __unkeyed-2 = "prettier";
