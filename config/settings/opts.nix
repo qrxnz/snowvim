@@ -20,9 +20,6 @@
       hlsearch = true;
       incsearch = true;
 
-      # Enable text wrap
-      wrap = true;
-
       # Better splitting
       splitbelow = true;
       splitright = true;
